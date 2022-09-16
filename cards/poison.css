@@ -1,0 +1,19 @@
+.POISON1 {
+    background-color: rgb(251, 146, 228);
+}
+
+.POISON2 {
+    background-color: rgb(140, 65, 186);
+}
+
+.POISON3 {
+    background-color: rgb(255, 188, 235);
+}
+
+.POISON4 {
+    color: rgb(216, 127, 228);
+    text-shadow: -1px -1px 0 rgb(127, 58, 133),
+    1px -1px 0 rgb(127, 58, 133),
+    -1px 1px 0 rgb(127, 58, 133),
+    1px 1px 0 rgb(127, 58, 133);
+}

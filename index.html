@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sortear carta Pokémon V2</title>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="stylesheet" type="text/css" href="cards/normal.css">
+    <link rel="stylesheet" type="text/css" href="cards/bug.css">
+    <link rel="stylesheet" type="text/css" href="cards/dark.css">
+    <link rel="stylesheet" type="text/css" href="cards/dragon.css">
+    <link rel="stylesheet" type="text/css" href="cards/electric.css">
+    <link rel="stylesheet" type="text/css" href="cards/fairy.css">
+    <link rel="stylesheet" type="text/css" href="cards/fighting.css">
+    <link rel="stylesheet" type="text/css" href="cards/fire.css">
+    <link rel="stylesheet" type="text/css" href="cards/flying.css">
+    <link rel="stylesheet" type="text/css" href="cards/ghost.css">
+    <link rel="stylesheet" type="text/css" href="cards/grass.css">
+    <link rel="stylesheet" type="text/css" href="cards/ground.css">
+    <link rel="stylesheet" type="text/css" href="cards/ice.css">
+    <link rel="stylesheet" type="text/css" href="cards/psychic.css">
+    <link rel="stylesheet" type="text/css" href="cards/rock.css">
+    <link rel="stylesheet" type="text/css" href="cards/steel.css">
+    <link rel="stylesheet" type="text/css" href="cards/water.css">
+    <link rel="stylesheet" type="text/css" href="cards/poison.css">
+</head>
+<body>
+
+    <div class="header">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" alt="" class="img-logo">
+    </div>
+
+    <div class="subheader">
+        <button type="submit" onclick="SortearPoke()" id="sortearBtn">Sortear</button>
+    </div>
+    
+    <div class="container" data-js="container">
+    </div>
+
+    <div class="below-container">
+        <button type="submit" onclick="Batalhar()" data-js="battleBtn" disabled>Batalhar</button>
+    </div>
+
+    <div id="fullContainer">
+        <div id="window">
+            <button type="submit" onclick="fecharJanela()" id="close">X</button>
+            <p id="resultBattle"></p>
+        </div>
+    </div>
+</body>
+</html>

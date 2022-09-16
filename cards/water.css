@@ -1,0 +1,19 @@
+.WATER1 {
+    background-color: rgb(158, 213, 255);
+}
+
+.WATER2 {
+    background-color: rgb(97, 154, 190)
+}
+
+.WATER3 {
+    background-color: rgb(207, 229, 255)
+}
+
+.WATER4 {
+    color: rgb(118, 182, 238);
+    text-shadow: -1px -1px 0 rgb(0, 87, 121),
+    1px -1px 0 rgb(0, 87, 121),
+    -1px 1px 0 rgb(0, 87, 121),
+    1px 1px 0 rgb(0, 87, 121);
+}

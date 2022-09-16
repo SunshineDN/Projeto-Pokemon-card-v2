@@ -1,0 +1,19 @@
+.FIRE1 {
+    background-color: rgb(255, 136, 136);
+}
+
+.FIRE2 {
+    background-color: rgb(241, 110, 70)
+}
+
+.FIRE3 {
+    background-color: rgb(255, 172, 172)
+}
+
+.FIRE4 {
+    color: rgb(240, 97, 36);
+    text-shadow: -1px -1px 0 rgb(92, 8, 0),
+    1px -1px 0 rgb(92, 8, 0),
+    -1px 1px 0 rgb(92, 8, 0),
+    1px 1px 0 rgb(92, 8, 0);
+}

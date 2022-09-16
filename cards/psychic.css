@@ -1,0 +1,19 @@
+.PSYCHIC1 {
+    background-color: rgb(252, 158, 255);
+}
+
+.PSYCHIC2 {
+    background-color: rgb(190, 97, 184)
+}
+
+.PSYCHIC3 {
+    background-color: rgb(255, 207, 250)
+}
+
+.PSYCHIC4 {
+    color: rgb(228, 157, 225);
+    text-shadow: -1px -1px 0 rgb(121, 69, 120),
+    1px -1px 0 rgb(121, 69, 120),
+    -1px 1px 0 rgb(121, 69, 120),
+    1px 1px 0 rgb(121, 69, 120);
+}

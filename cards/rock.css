@@ -1,0 +1,19 @@
+.ROCK1 {
+    background-color: rgb(255, 187, 123);
+}
+
+.ROCK2 {
+    background-color: rgb(188, 101, 58)
+}
+
+.ROCK3 {
+    background-color: rgb(255, 206, 163)
+}
+
+.ROCK4 {
+    color: rgb(203, 125, 61);
+    text-shadow: -1px -1px 0 rgb(121, 71, 0),
+    1px -1px 0 rgb(121, 71, 0),
+    -1px 1px 0 rgb(121, 71, 0),
+    1px 1px 0 rgb(121, 71, 0);
+}

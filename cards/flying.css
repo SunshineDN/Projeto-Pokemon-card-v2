@@ -1,0 +1,19 @@
+.FLYING1 {
+    background-color: rgb(225, 255, 246);
+}
+
+.FLYING2 {
+    background-color: rgb(208, 234, 237)
+}
+
+.FLYING3 {
+    background-color: rgb(233, 233, 218)
+}
+
+.FLYING4 {
+    color: rgb(167, 201, 195);
+    text-shadow: -1px -1px 0 rgb(89, 117, 119),
+    1px -1px 0 rgb(89, 117, 119),
+    -1px 1px 0 rgb(89, 117, 119),
+    1px 1px 0 rgb(89, 117, 119);
+}

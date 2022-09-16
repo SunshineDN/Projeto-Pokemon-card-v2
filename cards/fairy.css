@@ -1,0 +1,19 @@
+.FAIRY1 {
+    background-color: rgb(255, 115, 225);
+}
+
+.FAIRY2 {
+    background-color: rgb(243, 63, 240)
+}
+
+.FAIRY3 {
+    background-color: rgb(255, 183, 244)
+}
+
+.FAIRY4 {
+    color: rgb(238, 118, 228);
+    text-shadow: -1px -1px 0 rgb(121, 0, 119),
+    1px -1px 0 rgb(121, 0, 119),
+    -1px 1px 0 rgb(121, 0, 119),
+    1px 1px 0 rgb(121, 0, 119);
+}

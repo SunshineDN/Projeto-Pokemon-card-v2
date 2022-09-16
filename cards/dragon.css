@@ -1,0 +1,19 @@
+.DRAGON1 {
+    background-color: rgb(158, 250, 255);
+}
+
+.DRAGON2 {
+    background-color: rgb(97, 178, 190)
+}
+
+.DRAGON3 {
+    background-color: rgb(207, 251, 255)
+}
+
+.DRAGON4 {
+    color: rgb(72, 166, 173);
+    text-shadow: -1px -1px 0 rgb(0, 56, 121),
+    1px -1px 0 rgb(0, 56, 121),
+    -1px 1px 0 rgb(0, 56, 121),
+    1px 1px 0 rgb(0, 56, 121);
+}

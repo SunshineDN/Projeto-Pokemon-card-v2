@@ -1,0 +1,19 @@
+.NORMAL1 {
+    background-color: rgb(255, 221, 158);
+}
+
+.NORMAL2 {
+    background-color: rgb(174, 157, 125)
+}
+
+.NORMAL3 {
+    background-color: rgb(255, 238, 207)
+}
+
+.NORMAL4 {
+    color: rgb(222, 196, 150);
+    text-shadow: -1px -1px 0 rgb(123, 111, 75),
+    1px -1px 0 rgb(123, 111, 75),
+    -1px 1px 0 rgb(123, 111, 75),
+    1px 1px 0 rgb(123, 111, 75);
+}

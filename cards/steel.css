@@ -1,0 +1,19 @@
+.STEEL1 {
+    background-color: rgb(184, 184, 184);
+}
+
+.STEEL2 {
+    background-color: rgb(206, 206, 206)
+}
+
+.STEEL3 {
+    background-color: rgb(160, 160, 160)
+}
+
+.STEEL4 {
+    color: rgb(187, 187, 187);
+    text-shadow: -1px -1px 0 rgb(94, 94, 94),
+    1px -1px 0 rgb(94, 94, 94),
+    -1px 1px 0 rgb(94, 94, 94),
+    1px 1px 0 rgb(94, 94, 94);
+}

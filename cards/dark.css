@@ -1,0 +1,19 @@
+.DARK1 {
+    background-color: rgb(60, 63, 102);
+}
+
+.DARK2 {
+    background-color: rgb(28, 34, 117)
+}
+
+.DARK3 {
+    background-color: rgb(97, 102, 129)
+}
+
+.DARK4 {
+    color: rgb(98, 109, 150);
+    text-shadow: -1px -1px 0 rgb(26, 38, 82),
+    1px -1px 0 rgb(26, 38, 82),
+    -1px 1px 0 rgb(26, 38, 82),
+    1px 1px 0 rgb(26, 38, 82);
+}

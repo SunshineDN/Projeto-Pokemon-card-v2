@@ -1,0 +1,19 @@
+.GHOST1 {
+    background-color: rgb(206, 96, 193);
+}
+
+.GHOST2 {
+    background-color: rgb(156, 67, 176)
+}
+
+.GHOST3 {
+    background-color: rgb(244, 160, 251)
+}
+
+.GHOST4 {
+    color: rgb(168, 73, 185);
+    text-shadow: -1px -1px 0 rgb(81, 32, 96),
+    1px -1px 0 rgb(81, 32, 96),
+    -1px 1px 0 rgb(81, 32, 96),
+    1px 1px 0 rgb(81, 32, 96);
+}

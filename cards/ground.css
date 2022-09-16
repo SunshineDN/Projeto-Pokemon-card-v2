@@ -1,0 +1,19 @@
+.GROUND1 {
+    background-color: rgb(255, 224, 180);
+}
+
+.GROUND2 {
+    background-color: rgb(194, 151, 125)
+}
+
+.GROUND3 {
+    background-color: rgb(233, 206, 187)
+}
+
+.GROUND4 {
+    color: rgb(255, 202, 104);
+    text-shadow: -1px -1px 0 rgb(129, 105, 53),
+    1px -1px 0 rgb(129, 105, 53),
+    -1px 1px 0 rgb(129, 105, 53),
+    1px 1px 0 rgb(129, 105, 53);
+}

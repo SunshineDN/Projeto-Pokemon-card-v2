@@ -1,0 +1,19 @@
+.BUG1 {
+    background-color: rgb(249, 255, 158);
+}
+
+.BUG2 {
+    background-color: rgb(165, 190, 97)
+}
+
+.BUG3 {
+    background-color: rgb(242, 255, 207)
+}
+
+.BUG4 {
+    color: rgb(170, 255, 58);
+    text-shadow: -1px -1px 0 rgb(49, 77, 0),
+    1px -1px 0 rgb(49, 77, 0),
+    -1px 1px 0 rgb(49, 77, 0),
+    1px 1px 0 rgb(49, 77, 0);
+}

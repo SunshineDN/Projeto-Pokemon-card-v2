@@ -1,0 +1,19 @@
+.ELECTRIC1 {
+    background-color: rgb(255, 249, 161);
+}
+
+.ELECTRIC2 {
+    background-color: rgb(200, 194, 0)
+}
+
+.ELECTRIC3 {
+    background-color: rgb(245, 241, 190)
+}
+
+.ELECTRIC4 {
+    color: rgb(252, 242, 57);
+    text-shadow: -1px -1px 0 rgb(121, 117, 0),
+    1px -1px 0 rgb(121, 117, 0),
+    -1px 1px 0 rgb(121, 117, 0),
+    1px 1px 0 rgb(121, 117, 0);
+}

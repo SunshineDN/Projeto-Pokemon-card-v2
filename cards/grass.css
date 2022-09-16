@@ -1,0 +1,18 @@
+.GRASS1 {
+    background-color: rgb(168, 255, 158);
+}
+
+.GRASS2 {
+    background-color: rgb(97, 190, 106)
+}
+
+.GRASS3 {
+    background-color: rgb(225, 253, 225)
+}
+.GRASS4 {
+    color: rgb(58, 255, 97);
+    text-shadow: -1px -1px 0 rgb(1, 77, 0),
+    1px -1px 0 rgb(1, 77, 0),
+    -1px 1px 0 rgb(1, 77, 0),
+    1px 1px 0 rgb(1, 77, 0);
+}
