@@ -27,12 +27,12 @@ body {
     outline: none;
     border-radius: 6px;
     border-color: transparent;
-    margin: 30px;
     padding: 8px;
     font-size: 18pt;
     cursor: pointer;
     transition: all 0.25s;
     font-family: 'Kanit', sans-serif;
+    margin: 110px 0 30px 0;
 }
 
 .subheader button:disabled {
@@ -118,6 +118,7 @@ body {
 
 .versus-img {
     max-height: 35vh;
+    margin-top: 45px;
 }
 
 /* BG */
