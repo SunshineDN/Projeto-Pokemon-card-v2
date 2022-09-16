@@ -162,7 +162,7 @@ async function SortearPoke() {
     array = array.sort(() => Math.random() - 0.5)
 
     // LAÇO PARA GERAR UM ARRAY COM 10 NÚMEROS ALEATÓRIOS DISTINTOS BASEADO NO ARRAY ACIMA
-    let numPoke = Array(10);
+    let numPoke = Array(30);
     for(i = 0; i < numPoke.length; i++) {
         numPoke[i] = array[i];
     }
