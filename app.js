@@ -135,7 +135,9 @@ function escreverPokeMaq(listaPokemons) {
     container.innerHTML += divCard;
 }
 
-var pokemons = Array(10);
+var quantidadeCartas = 10;
+
+var pokemons = Array(quantidadeCartas);
 
 var pokemonsJogador = Array(pokemons.length/2)
 
@@ -162,7 +164,7 @@ async function SortearPoke() {
     array = array.sort(() => Math.random() - 0.5)
 
     // LAÇO PARA GERAR UM ARRAY COM 10 NÚMEROS ALEATÓRIOS DISTINTOS BASEADO NO ARRAY ACIMA
-    let numPoke = Array(30);
+    let numPoke = Array(quantidadeCartas);
     for(i = 0; i < numPoke.length; i++) {
         numPoke[i] = array[i];
     }
